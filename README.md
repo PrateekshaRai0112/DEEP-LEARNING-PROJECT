@@ -1,8 +1,18 @@
 # DEEP-LEARNING-PROJECT
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
+*NAME*: PRATEEKSHA RAI
 
-## Sentiment Classification Using PyTorch
+*INTERN ID*: CT04DN723
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+## Sentiment Classification Using PyTorch Project Overview
 
 This project demonstrates a simple yet powerful Natural Language Processing (NLP) model built using PyTorch. The main goal is to classify text data into positive or negative sentiment, which is a common task in opinion mining, customer feedback analysis, and chatbot applications.
 
@@ -14,7 +24,7 @@ The dataset used in this project is a small manually curated CSV file named samp
 
 Here’s an example of the data:
 
-Text                              	Label
+"Text"                             	Label
 
 "I love this product!"	              1
 
