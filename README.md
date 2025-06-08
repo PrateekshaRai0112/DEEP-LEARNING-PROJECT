@@ -128,3 +128,5 @@ This structure is scalable. In the future, you can replace the dataset with real
 
 This project serves as a beginner-friendly and complete walkthrough for building a text classification model using PyTorch. From raw sentences to model predictions and visual insights, it highlights the end-to-end workflow of NLP projects. It’s a great starting point to dive deeper into deep learning and natural language processing.
 
+## Output
+![Image](https://github.com/user-attachments/assets/ef55b728-26f9-4790-ad1d-b0f26fb99215)
